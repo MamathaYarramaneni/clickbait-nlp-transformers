@@ -1,7 +1,7 @@
 # NLP-final-project
 Natural Language processing final project
 
-#References
+# References
 
 https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1
 https://discuss.huggingface.co/t/trainer-only-doing-3-epochs-no-matter-the-trainingarguments/19347/5
