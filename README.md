@@ -1,6 +1,14 @@
 # NLP-final-project
 Natural Language processing final project
 
+Steps to execude the code -
+
+1. Clone the repository
+2. First run the preprocessing folder to generate the correct dataset files in csv format. This will clean the data, both train and validation.
+3. Then start running by milestone 2, upload each .pynb file in colab and run each cell.
+4. Then start running for milestone 3, upload each file in colab and keep running each cell to see results.
+5. Please contact us incase of issues.
+
 # References
 
 https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1
