@@ -1,4 +1,4 @@
-# Natural Language processing final project
+# NLP and Text Mining - final project
 Team name: Natural Language Processors
 
 Steps to execude the code -
